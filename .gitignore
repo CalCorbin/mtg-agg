@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cython debug symbols
+cython_debug/
+
+# Virtual environment directory
+venv/
+.env/
+
+# Environment variables file
+.env.local
+.env.*
+
+# VS Code and PyCharm IDE-related files
+.vscode/
+.idea/
+
+# Docker-related files
+*.log
+*.pid
+*.bak
+docker-compose.override.yml
+
+# Docker build cache
+*.tar
+**/node_modules/
