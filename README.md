@@ -7,7 +7,7 @@ Welcome to mtg-agg! This is a news aggregator for magic the gathering, powered b
 
 ## Local Development Setup
 1. Build the Docker image.
-    - `docker build -t fastapi-app .`
+    - `docker build -t mtgapi`
 2. Run the application.
    `docker compose up mtgapi`
 3. Access the API docs.
