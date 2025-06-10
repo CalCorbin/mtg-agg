@@ -1,5 +1,4 @@
-# Use an official Python runtime as a parent image
-FROM python:3.7-slim
+FROM python:3.13
 
 # Set the working directory in the container
 WORKDIR /code
