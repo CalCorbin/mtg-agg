@@ -13,10 +13,12 @@ venv/
 # Environment variables file
 .env.local
 .env.*
+.env
 
 # VS Code and PyCharm IDE-related files
 .vscode/
 .idea/
+.idea
 
 # Docker-related files
 *.log

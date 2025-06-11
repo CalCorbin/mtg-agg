@@ -2,3 +2,6 @@ fastapi
 uvicorn
 crawl4ai
 python-multipart
+pyjwt
+passlib[bcrypt]
+pydantic
